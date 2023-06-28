@@ -1,0 +1,17 @@
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/learningcsharp
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/learningcsharp.deps.json
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/learningcsharp.runtimeconfig.json
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/learningcsharp.dll
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/learningcsharp.pdb
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.csproj.AssemblyReference.cache
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.AssemblyInfoInputs.cache
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.AssemblyInfo.cs
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.csproj.CoreCompileInputs.cache
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.dll
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/refint/learningcsharp.dll
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.pdb
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.genruntimeconfig.cache
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/ref/learningcsharp.dll
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/faisalramadhan/Documents/LatihanCoding/C#/learningcsharp/obj/Debug/net7.0/learningcsharp.csproj.CopyComplete
